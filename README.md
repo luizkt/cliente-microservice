@@ -1,3 +1,3 @@
 # cliente-microservice
 
-Docker Download Command: docker push luizkt/clientes_microservice
+Docker Download Command: docker pull luizkt/clientes_microservice
